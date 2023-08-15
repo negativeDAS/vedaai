@@ -1,0 +1,3 @@
+OpenAi result of the prompt: ayurveda using ai can you write me a program in python to add two numbers
+*********************
+
